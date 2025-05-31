@@ -53,20 +53,6 @@ This is a web-based weather app built with Next.js, TailwindCSS, and Firebase th
    ```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Project Structure
-
-```
-app/
-├── components/         # React components
-│   ├── CurrentWeather.tsx
-│   ├── Forecast.tsx
-│   ├── LocationNews.tsx
-│   ├── SearchForm.tsx
-│   ├── UpdateModal.tsx
-│   └── WeatherRecords.tsx
-├── lib/               # Utility functions and API calls
-│   └── weatherApi.ts
-└── page.tsx          # Main application page
 ```
 
 ## API Integration
@@ -87,11 +73,3 @@ app/
 - Location-based news articles
 - Latest updates for searched locations
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-# weatherapp
